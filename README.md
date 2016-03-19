@@ -1,14 +1,14 @@
-# 取りあえずCloud9でプロジェクト作ってみた
+# Cloud9でRailsプロジェクト作ってみた
 
 ## 目的
 
-Windows10 環境で Rails開発は中々困難
+Windows 環境で Rails開発は中々困難(過去の思い出、、、)
 
 ☟
 
 クラウドでやってみるか(´･ω･｀)
 
-※ vagrant + vartualBox + RubyMine使えば別だけど、作るの疲れたのでCloud9を試してみる。
+※ vagrant + virtualBox + RubyMine使えば別だけど、作るの疲れたのでCloud9を試してみる。
 
 ## 使用するサービス
 
